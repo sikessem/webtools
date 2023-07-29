@@ -37,10 +37,10 @@
     },
     "require": {
         "php": "^8.1||^8.2",
-        "fakerphp/faker": "^1.22",
-        "mockery/mockery": "^1.5",
-        "nunomaduro/collision": "^7.5",
-        "sikessem/devtools": "^0.0",
+        "fakerphp/faker": "^1.23",
+        "mockery/mockery": "^1.6",
+        "nunomaduro/collision": "^7.7",
+        "sikessem/devtools": "^0.1.0",
         "spatie/ignition": "^1.8"
     },
     "extra": {
