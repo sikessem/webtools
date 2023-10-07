@@ -47,6 +47,9 @@
 
 This library includes all the PHP development and automation tools used by [Sikessem](https://sikessem.com) for Web applications.
 
+> [!WARNING]
+> This package is no longer maintained. Please use [sikessem/devtools](https://github.com/sikessem/devtools) instead.
+
 ## 🔖 Contents
 
 - [🧪 Sikessem Web Tools](#-sikessem-web-tools)
